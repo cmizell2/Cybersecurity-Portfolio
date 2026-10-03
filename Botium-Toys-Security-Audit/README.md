@@ -28,7 +28,7 @@ Botium Toys is a small U.S. toy company with a physical store and a growing onli
 5. Build an asset inventory and formalize legacy system maintenance
 
 ## Files
-- `Controls_and_Compliance_Checklist.pdf`: completed audit checklist with recommendations
+- [Controls_and_Compliance_Checklist.pdf](./Controls_and_Compliance_Checklist.pdf): completed audit checklist with recommendations
 
 ## Skills Demonstrated
 Security auditing · Risk assessment · NIST CSF · PCI DSS · GDPR · SOC 1/SOC 2 · Security controls

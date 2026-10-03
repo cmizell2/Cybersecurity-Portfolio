@@ -2,12 +2,13 @@
 
 Aspiring SOC Analyst with the **Google Cybersecurity Professional Certificate** and a background in operations, quality control, and data analysis. This repository documents my hands-on labs, investigations, and security projects.
 
-📫 **Contact:** CJMizell125@gmail.com | [LinkedIn](YOUR-LINKEDIN-URL)
+📫 📫 **Contact:** CJMizell125@gmail.com | [LinkedIn](https://www.linkedin.com/in/christopher-mizell-04610a271)
+christopher-mizell-04610a271)
 
 ---
 
 ## 🎓 Certifications
-- ✅ Google Cybersecurity Professional Certificate — [Month Year]
+- ✅ Google Cybersecurity Professional Certificate — October 2026
 - 🔄 CompTIA Security+ — In Progress
 
 ## 🛠️ Skills & Tools
@@ -22,9 +23,9 @@ Aspiring SOC Analyst with the **Google Cybersecurity Professional Certificate** 
 
 | Project | Description | Tools |
 |---|---|---|
-| Security Audit | Audited a fictional company's controls and compliance against NIST CSF | NIST CSF, Risk Assessment |
-| Incident Handler's Journal | Documented security incidents using the 5 W's and response steps | Incident Response |
-| Python Automation | Script that updates an allow list by removing unauthorized IPs | Python |
+| [Security Audit](./Botium-Toys-Security-Audit) | Audited a fictional toy company's controls and compliance against NIST CSF, PCI DSS, GDPR, and SOC | NIST CSF, Risk Assessment |
+| *Coming soon:* Incident Handler's Journal | documenting security incidents using the 5 W's and incident response steps | Incident Response |
+| *Coming soon:* Python Automation | Python script that updates an allow list by removing unauthorized IP addresses | Python |
 | *Coming soon:* SOC Investigations | Alert triage and incident reports from LetsDefend / TryHackMe | SIEM, Log Analysis |
 | *Coming soon:* Home Lab | SIEM home lab with log ingestion and detections | Wazuh / Splunk, VirtualBox |
 

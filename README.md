@@ -25,7 +25,7 @@ christopher-mizell-04610a271)
 |---|---|---|
 | [Security Audit](./Botium-Toys-Security-Audit) | Audited a fictional toy company's controls and compliance against NIST CSF, PCI DSS, GDPR, and SOC | NIST CSF, Risk Assessment |
 | [Incident Handler's Journal](./Incident-Handlers-Journal) | Documented security incidents using the 5 W's and NIST incident response lifecycle, and analyzed network traffic and a malicious file hash | Wireshark, tcpdump, VirusTotal |
-| *Coming soon:* Python Automation | Python script that updates an allow list by removing unauthorized IP addresses | Python |
+| [Python Automation](./Python-Allow-List-Automation) | Built a Python script that automatically removes unauthorized IP addresses from an allow list | Python |
 | *Coming soon:* SOC Investigations | Alert triage and incident reports from LetsDefend / TryHackMe | SIEM, Log Analysis |
 | *Coming soon:* Home Lab | SIEM home lab with log ingestion and detections | Wazuh / Splunk, VirtualBox |
 

@@ -7,10 +7,12 @@ Hands-on alert triage in a simulated Security Operations Center (SOC). Each inve
 ## Scenario 1: Introduction to Phishing (TryHackMe SOC Simulator)
 
 **Result:** ✅ Passed. All true positives identified and correctly classified.
+
 **Tools:** SIEM alert queue, TryDetectThis (threat intelligence), firewall logs
+
 **Skills:** Phishing analysis, threat intel lookups, alert correlation, incident reporting
 
-![Scenario results](images/intro-to-phishing-results.png)
+![Scenario results](intro-to-phishing-results.png)
 
 ### Alert Summary
 
